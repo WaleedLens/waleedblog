@@ -2,7 +2,7 @@
 title: "Side Project - Payment orchestrator"
 description: "Part 1"
 pubDate: "Jan 03 2026"
-heroImage: "../../public/paorc.png"
+heroImage: "/paorc.png"
 ---
 # Building a Payment Orchestrator: My Learning Journey
 
