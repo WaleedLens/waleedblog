@@ -2,7 +2,7 @@
 title: "Side Project - Payment orchestrator"
 description: "Part 1"
 pubDate: "Jan 03 2026"
-heroImage: "./paroc.png"
+heroImage: "../../public/paorc.png"
 ---
 # Building a Payment Orchestrator: My Learning Journey
 
@@ -45,7 +45,7 @@ Add retries, circuit breakers, proper monitoring. Make sure nothing breaks when 
 
 ## What Will This Thing Look Like?
 
-![Simple architecture diagram with boxes and arrows showing request flow]("./draftdesign.png")
+![Simple architecture diagram with boxes and arrows showing request flow](/draftdesign.png)
 
 I'm picturing a few main pieces:
 
